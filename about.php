@@ -29,24 +29,24 @@
       <nav class="navbar navbar-dark bg-light">
       <ul class="nav nav-tabs">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
+          <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
         </li>
         <li class="nav-item" >
-          <a class="nav-link" href="register.html"><strong style="font-size: medium;">Register</strong></a>
+          <a class="nav-link" href="register.php"><strong style="font-size: medium;">Register</strong></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="gallery.html"><strong style="font-size: medium;">gallery</strong></a>
+          <a class="nav-link" href="gallery.php"><strong style="font-size: medium;">gallery</strong></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="about.html"><b style="font-size: medium;">About</b><strong style="font-size: medium;">Us</strong></a>
+            <a class="nav-link" href="about.php"><b style="font-size: medium;">About</b><strong style="font-size: medium;">Us</strong></a>
           </li>
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               <strong style="font-size: medium;">Collections</strong>
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="classic.html"><strong>Classic</strong></a></li>
-              <li><a class="dropdown-item" href="short.html"><strong>Stories for kids</strong></a></li>
+              <li><a class="dropdown-item" href="classic.php"><strong>Classic</strong></a></li>
+              <li><a class="dropdown-item" href="short.php"><strong>Stories for kids</strong></a></li>
               <li><a class="dropdown-item" href="#"><strong>Novels</strong></a></li>
               <li><a class="dropdown-item" href="#"><strong>Poetry</strong></a></li>
           </li>
